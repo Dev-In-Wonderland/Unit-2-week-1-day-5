@@ -8,29 +8,29 @@ body {
 }
 
 g {
-  animation: mmm 6s linear infinite 0s;
+  animation: mmm 4s linear infinite 2s;
 }
 
 @keyframes mmm {
-  5%{ opacity: 0;}
+  5%{ opacity: 1;}
   
-  15%{ opacity: 1;}
   
-  25%{ opacity: 0;}
   
-  35%{ opacity: 1;}
+  25%{ opacity: 1;}
+  
+  
   
   45%{ opacity: 0;}
   
-  55%{ opacity: 1;}
   
-  65%{ opacity: 0;}
   
-  75%{ opacity: 1;}
+  65%{ opacity: 1;}
   
-  85%{ opacity: 0;}
   
-  95%{ opacity: 1;}
+  
+  85%{ opacity: 1;}
+  
+  
   
 }
 
