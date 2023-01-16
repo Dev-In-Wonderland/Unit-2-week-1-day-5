@@ -374,6 +374,11 @@ main {
   #button-nav{
     font-size: 1rem;
     text-align: center;
+    width: 25%;
+  }
+
+  nav a {
+    font-size: 0.8rem;
   }
 
   #button-hero{
@@ -389,7 +394,8 @@ main {
 }
 
 #sign {
-  font-size: 1rem
+  font-size: 1rem;
+  
 }
 
 .p2-trending h3 {
@@ -420,6 +426,10 @@ height: 9rem;
     order: 1;
     margin: 3rem auto;
     width:100%
+   }
+
+   header img {
+    width: 30%
    }
 
  }
